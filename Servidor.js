@@ -24,23 +24,5 @@ function iniciaServidor(requerido){
 }
 console.log('Servidor Credito Up!');
 servidor.createServer(iniciaServidor).listen(9990);
-const { app, BrowserWindow } = require('electron')
-
-function createWindow () {
-  // Create the browser window.
-  let win = new BrowserWindow({
-    width: 700,
-    height: 600, 
-    icon: __dirname + '/img/credit.ico',
-    webPreferences: {
-      nodeIntegration: true
-    }
-  })
-
-  // and load the index.html of the app.
-  win.loadFile('Formulario.html')
-}
-
-app.whenReady().then(createWindow)
 
 
