@@ -1,0 +1,4 @@
+Nombre:Rocael Trabaja:si Sueldo:1499 Credito:No Aprobado
+Nombre:Rocael Trabaja:no Sueldo:1499 Credito:No Aprobado
+Nombre:Glember Trabaja:no Sueldo:1501 Credito:No Aprobado
+Nombre:Glember Trabaja:si Sueldo:1501 Credito:Aprobado
